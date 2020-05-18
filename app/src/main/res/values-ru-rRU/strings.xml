@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlackHawk</string>
+    <string name="animate">Полетели</string>
+    <string name="departure">Откуда вылет</string>
+    <string name="destination">Куда лететь</string>
+    <string name="departure_select">Выберите город, откуда вылет</string>
+    <string name="destination_select">Выберите город, куда лететь</string>
+    <string name="error_same_route_directions">Вылет и прилет одинаковые! Хе-Хе</string>
+    <string name="error_no_internet">Ой, ошибка! Проверьте подключение к интернету</string>
+    <string name="error_unknown">Ой, неизвестная ошибка!</string>
+</resources>

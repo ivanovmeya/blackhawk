@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BlackHawk</string>
+    <string name="animate">Animate</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+    <string name="departure_select">Select departure city</string>
+    <string name="destination_select">Select destination city</string>
+    <string name="error_same_route_directions">Destination and Departure are same!</string>
+    <string name="error_no_internet">OOps error! Check your internet connection please</string>
+    <string name="error_unknown">Oops! Something went wrong</string>
+</resources>

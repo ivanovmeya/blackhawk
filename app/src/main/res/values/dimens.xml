@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+
+    <dimen name="corner_radius">25dp</dimen>
+    <dimen name="bg_label_width">50dp</dimen>
+    <dimen name="bg_label_height">30dp</dimen>
+
+</resources>
